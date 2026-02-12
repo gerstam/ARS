@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/3d77b2fd9b08a44af96f52862da881631a0c1c3370e91eace7d757b0f596a372/download"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gerstam/ARS/main/Arsenal.lua"))()
